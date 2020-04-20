@@ -1,0 +1,3 @@
+rootProject.name='Modularity'
+include ':app'
+include ':modula'
